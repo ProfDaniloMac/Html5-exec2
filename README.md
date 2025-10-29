@@ -288,34 +288,6 @@ Certifique-se que os arquivos estão organizados:
 3. Verifique quebras de linha
 4. Teste o menu em mobile
 
-### 4. Testar Componentes
-
-**Botões:**
-- ✅ Hover funciona?
-- ✅ Focus tem outline?
-- ✅ Active tem feedback visual?
-
-**Formulários:**
-- ✅ Inputs focam corretamente?
-- ✅ Validação visual funciona?
-- ✅ Labels estão associadas?
-
-**Cards:**
-- ✅ Hover eleva o card?
-- ✅ Responsivo funciona?
-- ✅ Imagens carregam?
-
-**Tabelas:**
-- ✅ Responsiva em mobile?
-- ✅ Hover nas linhas funciona?
-
-### 5. Validar CSS
-Acesse: **https://jigsaw.w3.org/css-validator/**
-1. Upload do arquivo style.css
-2. Verifique se não há erros críticos
-3. Warnings são aceitáveis
-
-
 ## Diferenças da Entrega 1
 
 ### O que foi mantido:
